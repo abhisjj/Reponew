@@ -29,6 +29,9 @@ public class Zerodhaforgotpass {
    public void Reset() {
 	   reset.click();
    }
+   public void Github() {
+	   reset.click();
+   }
    
 	
 
