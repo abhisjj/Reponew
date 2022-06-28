@@ -27,5 +27,8 @@ public class SharePOM {
 	public void clickchart() {
 		Chart.click();
 	}
+	public void github() {
+		System.out.println();
+	}
 	
 }
